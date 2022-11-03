@@ -11,3 +11,5 @@ If you go http://localhost/Hangman_Final/index.php and you aren't logged in you'
 The Home tab on the navigation bar will sign you out
 
 Note: You can press clues to get a hint at the top of the webpage, that'll help you guess the word
+
+The restart button doen't olny start a new game but it also picks a new word randomly.
