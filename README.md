@@ -11,3 +11,6 @@ if you are stuck on the word you can click clue and a clue will appear at the to
 If you guess the right word than you will be congratulated and then can proceed to the next level
 if you get the word wrong then you can restart the level by clicking the restart buttong for new word
 Please attempt to go through all the levels and words(there are five words per a level)
+
+The game itself will be playable but we had technical difficulties getting the signup,loginpage mysql parts to work with the codd server.
+However we did show thhat the login page, signup page, and mysql all worked on local.
