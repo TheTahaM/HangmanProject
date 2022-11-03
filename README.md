@@ -1,6 +1,6 @@
 # Hangman.readme
 
-# Website only works on the local database 
+# (Website only works on the local database) 
 
 Use the buttons to play the game
 
