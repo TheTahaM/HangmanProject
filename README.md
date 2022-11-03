@@ -14,3 +14,5 @@ Please attempt to go through all the levels and words(there are five words per a
 
 The game itself will be playable but we had technical difficulties getting the signup,loginpage mysql parts to work with the codd server.
 However we did show thhat the login page, signup page, and mysql all worked on local.
+
+PLEASE GO TO LEVEL 1 DIRECTLY
